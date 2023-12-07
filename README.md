@@ -48,9 +48,10 @@ Estrutura do Projeto
 Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para sugestões, problemas encontrados ou enviar pull requests.
+
 Autores
 
-    @JoséDavi-10
+    @JoseDavi10
     @Vitor-bs
     @Joaolucas045
 
