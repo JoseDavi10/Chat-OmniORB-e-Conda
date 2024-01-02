@@ -1,6 +1,7 @@
-Sistema de Chat Distribuído usando omniORB e Python
+# Sistema de Chat Distribuído usando omniORB e Python
 
 Este projeto consiste em um sistema de chat distribuído implementado em Python utilizando o omniORB para comunicação entre os clientes e o servidor.
+
 Especificações Técnicas
 
     Linguagem: Python
