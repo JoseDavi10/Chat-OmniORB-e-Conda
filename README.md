@@ -1,18 +1,18 @@
-# Sistema de Chat Distribuído usando omniORB e Python
+# Sistema de Chat Distribuído usando OmniORB e Python
 
 Este projeto consiste em um sistema de chat distribuído implementado em Python utilizando o omniORB para comunicação entre os clientes e o servidor.
 
-Especificações Técnicas
+## Especificações Técnicas
 
-    Linguagem: Python
-    Framework: omniORB (implementação do padrão CORBA)
-    Requisitos: omniORB, Python
+* Linguagem: Python
+* Framework: omniORB (implementação do padrão CORBA)
+* Requisitos: omniORB, Python
 
 Funcionalidades Principais
 
-    Servidor de chat que permite comunicação entre múltiplos clientes distribuídos.
-    Registro de logs do servidor.
-    Histórico de conversas para todos os clientes.
+*Servidor de chat que permite comunicação entre múltiplos clientes distribuídos.
+*Registro de logs do servidor.
+*Histórico de conversas para todos os clientes.
 
 Instalação
 Pré-requisitos
