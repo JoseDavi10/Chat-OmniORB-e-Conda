@@ -10,9 +10,9 @@ Este projeto consiste em um sistema de chat distribuído implementado em Python 
 
 Funcionalidades Principais
 
-*Servidor de chat que permite comunicação entre múltiplos clientes distribuídos.
-*Registro de logs do servidor.
-*Histórico de conversas para todos os clientes.
+* Servidor de chat que permite comunicação entre múltiplos clientes distribuídos.
+* Registro de logs do servidor.
+* Histórico de conversas para todos os clientes.
 
 Instalação
 Pré-requisitos
@@ -40,30 +40,30 @@ Utilização
     Os clientes devem se conectar ao servidor fornecendo o endereço IOR e a porta do servidor.
     Após a conexão bem-sucedida, os clientes podem enviar mensagens que serão distribuídas a todos os outros clientes conectados.
 
-Estrutura do Projeto
+## Estrutura do Projeto
 
-    server.py: Arquivo Python que inicia o servidor de chat.
-    client.py: Arquivo Python que inicia o cliente de chat.
-    chat.idl: Arquivo que define a interface do chat usando IDL (Interface Definition Language).
+1. server.py: Arquivo Python que inicia o servidor de chat.
+2. client.py: Arquivo Python que inicia o cliente de chat.
+3. chat.idl: Arquivo que define a interface do chat usando IDL (Interface Definition Language).
 
-Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para sugestões, problemas encontrados ou enviar pull requests.
 
-Autores
+## Autores
 
-    @JoseDavi10
-    @Vitor-bs
-    @Joaolucas045
+* https://github.com/JoseDavi10
+* https://github.com/Vitor-bs?tab=repositories
+* https://github.com/joaolucas045
 
-Metodologia Ágil Utilizada
+## Metodologia Ágil Utilizada
 
     https://trello.com/invite/b/XAsA7CBA/ATTI2544d69cbd397a7d446579815c87f143EED13552/trabalhos-finais
 
-Vídeo da demonstração do sistema 
+## Vídeo da demonstração do sistema 
 
     https://www.youtube.com/watch?v=82zRMO6k7GI
     
-Licença
+## Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
