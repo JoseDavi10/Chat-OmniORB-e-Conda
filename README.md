@@ -52,9 +52,9 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para suge
 
 ## Autores
 
-* [Davi Gomes] (https://github.com/JoseDavi10)
-* [Vitor Barbosa] (https://github.com/Vitor-bs?tab=repositories)
-* [João Lucas] (https://github.com/joaolucas045)
+* [Davi Gomes](https://github.com/JoseDavi10)
+* [Vitor Barbosa](https://github.com/Vitor-bs?tab=repositories)
+* [João Lucas](https://github.com/joaolucas045)
 
 ## Metodologia Ágil Utilizada
 
